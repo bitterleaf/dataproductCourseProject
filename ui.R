@@ -23,6 +23,7 @@ that are included in the Yahoo Finance database.'),
                 p(),
                 textOutput('textB'),
                 imageOutput("summary"),
-                p('You can access the server.R and ui.R via this Github url:')
+                p('You can access the server.R and ui.R via this Github url: 
+                https://github.com/bitterleaf/dataproductCourseProject ')
         )
 ))
